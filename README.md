@@ -1,22 +1,23 @@
-### Welcome to Sneha's Github profile 👋
+# Welcome to Sneha's GitHub Profile 👋
 
 
-### About Me ℹ
-<!--
-**- 🔭 I’m currently pursuing B tech in CSE(AI)
--->
-### Projects 🚀
-<!--
-- 
--->
-### Skills & Technologies 🛠
-<!--
-- Programming Languages:
-- Tools & Technologies: 
--->
-### Conect with Me 🤝
-<!--
-**Feel free to reach me out through the following channel:
-- www.gmail.com/in/snehatiwari474@gmail.com
-- www.linkedin.com/in/iamsnehatiwari 
--->
+## About Me ℹ️
+
+- 🔭 I’m currently pursuing B Tech in CSE(AI)
+
+## Projects 🚀
+
+## Skills & Technologies 🛠️
+
+- Programming Languages: 
+- Tools & Technologies:
+
+
+## Connect with Me 🤝
+
+Feel free to reach out to me through the following channels:
+
+- [Email](snehhhcodes@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/iamsnehatiwari)
+
+Let's collaborate and build amazing things together! 😊
