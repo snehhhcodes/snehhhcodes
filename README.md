@@ -36,7 +36,6 @@
   <a href="https://nodejs.org/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="50"/></a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="50"/></a>
-  <br>
  <!-- Canva -->
   <a href="https://www.canva.com/" target="blank"><img align="left" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" width="50" height="50"/></a>
   <!-- GitHub -->
@@ -47,8 +46,6 @@
   <a href="https://cloud.google.com/" target="blank"><img align="left"src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="Google Cloud" width="48" height="50"/></a>
 </p>
 
-
-<br>
 <br>
 <br>
 <br>
