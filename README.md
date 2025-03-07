@@ -2,7 +2,7 @@
 <h3 align="center"> Passionate Python And Web developer <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20">
 </h3>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="420" height="315">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="415" height="315">
  
 [![GitHub followers](https://img.shields.io/github/followers/snehhhcodes?label=Follow&style=social)](https://github.com/snehhhcodes)
 ![Profile Views](https://komarev.com/ghpvc/?username=snehhhcodes&color=blue)
