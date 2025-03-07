@@ -7,11 +7,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/snehhhcodes?label=Follow&style=social)](https://github.com/snehhhcodes)
 ![Profile Views](https://komarev.com/ghpvc/?username=snehhhcodes&color=blue)
 
-- Currently learning **Python, Data Structure and Algorithms and Full-Stack** <br> **Web Development.**
+- Currently learning **Python, Data Structure and Algorithms and Full-Stack Web Development.**
   
 - 💬 Always up for **tech discussions and exploring new technologies.**
 
-- 📚 **Documenting my Python learning journey** in my **[Path to Python](#)** <br> repository. **Check it out! 🚀**
+- 📚 **Documenting my Python learning journey** in my **[Path to Python](#)** repository. **Check it out! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
