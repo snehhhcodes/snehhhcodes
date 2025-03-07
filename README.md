@@ -41,11 +41,12 @@
   <!-- GitHub -->
   <a href="https://github.com/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="50"/></a>
   <!-- Firebase -->
-  <a href="https://firebase.google.com/?" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="50"/></a>
+  <a href="https://firebase.google.com/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="50"/></a>
   <!-- Google Cloud -->
   <a href="https://cloud.google.com/" target="blank"><img align="left"src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="Google Cloud" width="48" height="50"/></a>
 </p>
 
+<br>
 <br>
 <br>
 <br>
