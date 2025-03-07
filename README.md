@@ -41,20 +41,16 @@
   <!-- GitHub -->
   <a href="https://github.com/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="50"/></a>
   <!-- Firebase -->
-  <a href="https://firebase.google.com/?" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="50" style margin="10"/></a>
+  <a href="https://firebase.google.com/?" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="50"/></a>
   <!-- Google Cloud -->
-  <a href="https://cloud.google.com/" target="blank"><img align="left"src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="Google Cloud" width="50" height="50" style margin="10"/></a>
+  <a href="https://cloud.google.com/" target="blank"><img align="left"src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="Google Cloud" width="48" height="50"/></a>
 </p>
 
+<br>
 <br>
 <br>
 
 ## <h3 align="left"> Holophin Badges - Hactoberfest 2024 </h3>
 [![An image of @snehhhcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehhhcodes)](https://holopin.io/@snehhhcodes)
 
-<br>
-<br>
-
 ## <p align="center"> Thanks for visiting my profile! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="65"></p>
-<br>
-
