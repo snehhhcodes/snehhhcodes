@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="mailto:snehatiwari474@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" height="40" width="50"/></a>
+<a href="mailto:snehaacodes@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" height="40" width="50"/></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Linkedin" height="40" width="50"/></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
