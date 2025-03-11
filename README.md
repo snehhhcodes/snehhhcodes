@@ -11,7 +11,7 @@
   
 - 💬 Always up for **tech discussions and exploring new technologies.**
 
-- 📚 **Documenting my Python learning journey** in my **[Path to Python](#)** repository. **Check it out! 🚀**
+- 📚 **Documenting my Python learning journey** in my **[Path To Python](https://github.com/snehhhcodes/Path-To-Python)** repository. **Check it out! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
