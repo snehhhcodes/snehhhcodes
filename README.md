@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="400" height="300">
  
-[![GitHub followers](https://img.shields.io/github/followers/snehhhcodes?label=Follow&style=social)](https://github.com/snehhhcodes)
+[![Commits Badge](https://badges.pufler.dev/commits/FREQUENCY/snehhhcodes)](https://badges.pufler.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=snehhhcodes&color=blue)
 
 - Currently learning **Python, Data Structure and Algorithms and Full-Stack Web Development.**
