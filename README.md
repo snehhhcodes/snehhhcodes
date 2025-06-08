@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/">Sneha Tiwari </a> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">  
-<h3 align="center"> Passionate Python And Web developer <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20">
+<h3 align="center">A budding engineer from India <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20">
 </h3>
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="400" height="300">
@@ -7,11 +7,11 @@
 [![Commits Badge](https://badges.pufler.dev/commits/FREQUENCY/snehhhcodes)](https://badges.pufler.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=snehhhcodes&color=blue)
 
-- Currently learning **Python, Data Structure and Algorithms and Full-Stack Web Development.**
+- 💡Turning **curiosity into creation through hands-on building.**
   
 - 💬 Always up for **tech discussions and exploring new technologies.**
 
-- 📚 **Documenting my Python learning journey** in my **[Path To Python](https://github.com/snehhhcodes/Path-To-Python)** repository. **Check it out! 🚀**
+- 📚 **Documenting my learning journey across Python, Full Stack Web Development, and Java – Check it out [here](https://github.com/snehhhcodes?tab=repositories)🚀!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -27,6 +27,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="50"/></a>
   <!-- Python -->
   <a href="https://www.python.org/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="50"/></a>
+ <!-- Java -->
+  <a href="https://www.java.com/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="50"/></a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="50"/></a>
   <!-- MERN Stack -->
