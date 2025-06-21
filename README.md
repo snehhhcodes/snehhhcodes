@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/">Sneha Tiwari </a> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">  
+<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/iamsnehatiwari">Sneha Tiwari </a> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">  
 <h3 align="center">A budding engineer from India <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20">
 </h3>
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="mailto:snehatiwari474@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" height="40" width="50"/></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Linkedin" height="40" width="50"/></a>
+<a href="https://linkedin.com/in/iamsnehatiwari" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Linkedin" height="40" width="50"/></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- HTML -->
