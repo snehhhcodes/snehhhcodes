@@ -11,7 +11,7 @@
   
 - 💬 Always up for **tech discussions and exploring new technologies.**
 
-- 🛠️ Currently building skills in **MERN stack, Python, and Java** to create real-world solutions.🚀!**
+- 🛠️ Currently building skills in **MERN stack, Python, and Java** to create real-world solutions.🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
